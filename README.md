@@ -10,6 +10,8 @@ This project used raw HTML, CSS, and JS.
 
 To view the project live, visit [turnipprophet.io](https://turnipprophet.io).
 
+<br>
+
 ![TurnipProphetScreenshot](turnip-prophet-full.webp)
 
 ## My Contribution To The Project
@@ -19,4 +21,6 @@ I contributed over 1,000 lines of code to this project, adding things like:
 - Worked with the back-end team to update the form inputs so the API was passing the right data
 - Added some info about the project
 
-![TrevorWelchLogo](trevor-welch-logo.png)
+<br>
+
+<img src="trevor-welch-logo.png" alt="Trevor Welch Logo" width=80>
