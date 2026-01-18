@@ -1,6 +1,6 @@
-![TurnipProphetLogo](turnip-prophet-thumbnail.webp)
-
 # Turnip Prophet (2020)
+
+![TurnipProphetLogo](turnip-prophet-thumbnail.webp)
 
 This is my fork of [Turnip Prophet](https://github.com/mikebryant/ac-nh-turnip-prices), an open-source price calculator for a video game's in-game stock market.
 
