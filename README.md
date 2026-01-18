@@ -1,3 +1,5 @@
+![TurnipProphetLogo](turnip-prophet-thumbnail.webp)
+
 # Turnip Prophet (2020)
 
 This is my fork of [Turnip Prophet](https://github.com/mikebryant/ac-nh-turnip-prices), an open-source price calculator for a video game's in-game stock market.
@@ -12,3 +14,5 @@ I contributed over 1,000 lines of code to this project, adding things like:
 - 400+ lines of CSS taking the app from a black/white raw HTML project to something with UI similar to the video game
 - Worked with the back-end team to update the form inputs so the API was passing the right data
 - Added some info about the project
+
+![TurnipProphetScreenshot](turnip-prophet-full.webp)
